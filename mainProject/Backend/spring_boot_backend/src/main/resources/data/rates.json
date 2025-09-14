@@ -1,0 +1,31 @@
+{
+  "loanRates" : [ {
+    "type" : "Home Loan",
+    "rate" : "8.15% p.a."
+  }, {
+    "type" : "Car Loan",
+    "rate" : "9.75% p.a."
+  }, {
+    "type" : "Education Loan",
+    "rate" : "10.50% p.a."
+  }, {
+    "type" : "Business Loan",
+    "rate" : "11.00% p.a."
+  } ],
+  "fdRates" : [ {
+    "term" : "7 Days – 45 Days",
+    "rate" : "4.00% p.a."
+  }, {
+    "term" : "46 Days – 180 Days",
+    "rate" : "5.00% p.a."
+  }, {
+    "term" : "181 Days – 1 Year",
+    "rate" : "6.25% p.a."
+  }, {
+    "term" : "1 Year – 3 Years",
+    "rate" : "7.00% p.a."
+  }, {
+    "term" : "Senior Citizens",
+    "rate" : "+0.50% on all tenures"
+  } ]
+}
